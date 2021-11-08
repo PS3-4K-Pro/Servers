@@ -13,6 +13,7 @@ PS™ Online Network Emulated:</br>
 *Playstation Home.</br>
 *Socom Confrontation.</br>
 *Wipeout.</br>
+*Killzone 2.</br>
 </br>
 GT5 Master:</br>
 *Grand Turismo 5</br>
