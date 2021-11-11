@@ -25,5 +25,5 @@ Save MGO:</br>
 *Metal Gear Online 2.</br>
 
 # Credits
- All credits go to the respective developers.
+ All credits goes to the respective developers.
 </div>
