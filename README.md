@@ -7,14 +7,18 @@ Custom online game server for PS3™ 4K Pro.
 ![screenshot_2021_10_29_00_36_36](https://user-images.githubusercontent.com/74815634/139371823-1ffde543-8d99-4760-9fa5-6deec705d5d8.png)
 
 # Supported Custom Servers
-PS™ Online Network Emulated:</br>
-*Warhawk.</br>
-*Twisted Metal Black : Online.</br>
-*Playstation Home.</br>
-*Socom Confrontation.</br>
-*Wipeout.</br>
-*Killzone 2.</br>
+*PS™ Online Network Emulated:</br>
+*Calling All Cars!</br>
+*KillZone 2</br>
+*Motor Storm: Normal or Complete Edition</br>
+*Playstation Home</br>
+*Ratchet: Deadlocked</br>
+*Twisted Metal Black : Online</br>
+*Warhawk</br>
+*Wipeout</br>
 </br>
+PS Rewired:</br>
+*MotorStorm.</br>
 GT5 Master:</br>
 *Grand Turismo 5</br>
 </br>
