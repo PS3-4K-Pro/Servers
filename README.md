@@ -1,7 +1,7 @@
 <div align="center"> 
 
-# Custom Online Game Servers
-Custom online game server for PS3™ 4K Pro.
+# Custom Online Game Servers Resources
+Custom online game server resources for PS3™ 4K Pro.
 
 [![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/Servers/total?style=social)](https://github.com/LuanTeles/Avatars/releases/)
  
